@@ -2,6 +2,18 @@
   font-family: isocpeur;
   src: url(src/fonts/isocpeur.ttf);
 }
+@font-face {
+  font-family: isocpeur;
+  src: url(/src/fonts/isocpeur.ttf);
+}
+@font-face {
+  font-family: isocpeur;
+  src: url(../../src/fonts/isocpeur.ttf);
+}
+@font-face {
+  font-family: isocpeur;
+  src: url(./src/fonts/isocpeur.ttf);
+}
 
 a {
   text-decoration: none;
